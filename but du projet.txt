@@ -1,0 +1,42 @@
+idée 1:
+
+quand le bouton jaune à gauche et appuier la led blanche s'allume 
+
+condition : que le bouton de droit soit presser
+traitement : vérifier que le bouton de droite soit presser
+action : la led jaune s'allume
+
+
+Placement des pin : 
+
+	bouton de gauche : 3
+	led blanche : 0
+
+idée 2:
+
+quand le bouton de droite est appuier il y a un message qui apparaît sur l'écran LED "bienvenu dans ma smarthome"
+
+condition : que le bouton de gauche soit presser
+traitement : vérifier qu'il y aie eut une pression 
+action : afficher le message sur l'écran
+
+
+Placement des pin : 
+
+	bouton de droite : pin 7
+	écran : IIC
+
+
+idée 3:
+
+quand le détécteur détecte un mouvement la led jaune s'allume
+
+condition:
+traitement:
+action:
+
+Placement des pin :
+	
+	dététeur de mouvement :11
+	led jaune : 8
+	
