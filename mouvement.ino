@@ -8,8 +8,7 @@ void setup() {
   
   // Initialisation de la LED en sortie
   pinMode(pinLedJaune, OUTPUT);
-  
-  // Optionnel : démarrer la communication série
+
   Serial.begin(9600);
 }
 
