@@ -99,9 +99,9 @@ void moove_loop() {
     digitalWrite(pinLedJaune, LOW);
   }
 
-  // Pour déboguer : afficher la valeur brute du capteur
+
   Serial.print("Valeur capteur : ");
   Serial.println(mouvementDetecte);
 
-  delay(50); // Anti-bruit
+  delay(50); 
 }
